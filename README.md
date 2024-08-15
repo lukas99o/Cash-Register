@@ -43,3 +43,4 @@ To run this project locally:
 2. **Enter Cash Amount**: Type the cash amount in the input field.
 3. **Calculate Change**: Click "Purchase" to see the change due or a message if more money is needed.
 
+![Cash-Register](cash-register.webp)
